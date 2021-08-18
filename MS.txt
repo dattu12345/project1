@@ -1,0 +1,84 @@
+Site Reliability Engineer
+Date: Jul 19, 2021
+
+Location: Montreal, QC, CA
+
+Company: NTT DATA Services
+
+Req ID: 142547 
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. 
+If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+ 
+
+We are currently seeking a Site Reliability Engineer to join our team in Montreal, Quebec (CA-QC), Canada (CA).
+
+ 
+
+We are looking for Site Reliability Engineer candidates that can help our teams to bridge the gap between development and IT staff.  
+This role offers the opportunity to participate in activities that result in fewer software failures and shortened time between fixes, 
+thus reducing the overall technical debt of the teams you will be interacting with.
+
+ 
+
+Job Responsibilities Include:
+
+You will need to have spent 50% of your time on and around production support, including the handling of user tickets, 
+incident and problem management
+You will identify and create automation to eliminate manual day-to-day support activities; 
+scope and create automation for deployment, management and visibility of our services
+Automate to drive efficiency by creating an autonomous system
+Manage service reliability by managing risk
+Define service level indicators (SLIs), objectives (SLOs) and agreements (SLAs)
+Implement best practices for building successful monitoring and alerting systems
+You will use your expertise to tune and push our systems beyond their normal limit
+You will work closely with engineering/development teams to design, build and maintain systems and help them decide on products to use, 
+schema design and query tuning
+You will troubleshoot issues across the entire stack: hardware, software, application and network
+You will mentor other SREs on standard methodology from monitoring and troubleshooting complex code and database issues
+Represent the SRE organization in design reviews and operational readiness exercises for new and existing services
+Participate in on-call rotation and conference calls with other specialists over different time zones
+ 
+
+Basic Qualifications: 
+
+Hands on experience with UNIX 
+Hands on experience with SQL based database 
+Three Tier Support experience with DBs such as IBM, DB2, Sybase, Mongo, Green Plum, KDB 
+Excellent analytical and communication skills 
+Ability to prioritize and willingness to take ownership 
+Problem solving mindset and solution enabler  
+Great Problem trouble shooting and debug ability 
+Familiar with Financial Products like Equity and Fixed Income, securities, different type of risks in an investment bank, Trade flow 
+Should be able to contribute in system design and architecture with strong database knowledge. 
+ 
+
+Preferred Skills:
+
+Knowledge of messaging layer: MQ / CPS / XML
+Knowledge of SFTP/Comet
+ServiceNow
+Prior experience as a developer/support role in a large-scale financial firm
+ 
+
+#INDFSINS
+
+#L1-NAM
+
+ 
+
+About NTT DATA Services
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications,
+ infrastructure and business process services.
+ We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+NTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard to race, gender, disability, 
+age, veteran-status, sexual orientation, gender identity, or any other class protected by law. 
+To learn more, please visit https://us.nttdata.com/en/about-us/content/diversity-and-inclusion. Furthermore, NTT DATA Services 
+will make accommodations for eligible applicants on a case-by-case basis. Please email EEOOfficer@nttdata.com for assistance.
+
+
+Job Segment: Consulting, Developer, Database, Cloud, SQL, Technology
+
