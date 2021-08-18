@@ -1,0 +1,37 @@
+Firstly thanks for inviting for the interview. My self Bharath Chandra and I have experience in to Azure Cloud/DevOps Engineer with 
+
+over 5+ years of professional experience in Cloud (Azure, AWS), Configuration Management, Infrastructure Automation and Continuous 
+
+Integration/Continuous Delivery (CI/CD), and Application Development.. Used Terraform for building and collaborate the automation of
+
+ Azure Infrastructure and container-based deployments using Docker, working with Docker images, Docker Hub and Docker-registries and Kubernetes.
+
+Implemented CI/CD pipeline using Azure DevOps with GIT, MSBuild, Docker, Maven along with Jenkins’s plugins. 
+
+Experience working with code quality, code coverage tools SonarQube, Junit.
+
+Designed and developed Cloud Service projects and deployed to WebApps, IaaS, and PaaS.
+
+•	Experience in Enviorments such as .NET Framework 4.0 and 4.5, ASP.Net MVC 4.0/5.0, ASP.Net, 
+	.NETCore, C#, XML, XSLT, JavaScript, HTML, AJAX and IIS and User Interfaces (UI) using AngularJS, HTMLS5, CSS3, Bootstrap, Ajax,
+ 	Kendo UI.
+
+				CURRENT PROJECT 
+
+
+In current project with Finning International I was working as a devops engineer were created and 
+
+•	Built end to end CI/CD Pipelines in Jenkins to retrieve code, compile applications, perform tests and push build artifacts to 
+	Nexus using Nexus artifactory plugin.
+
+•	Used Terraform to automate provisioning of infrastructure and applications on Azure for 
+	DevOps environment.  
+
+•	Extensively used Ansible Configuration management to deploy packages and also 
+
+•	Involved in dealing with windows Azure services - Virtual Networks, Virtual Machines, Resource Groups, VPN, 
+	Load Balancing, Auto Scaling, Azure monitoring, Traffic Manager.
+
+
+Carrier challanges' i want to learn new tools and challange my self in difficult situtations 
+
